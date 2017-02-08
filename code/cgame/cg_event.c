@@ -135,7 +135,7 @@ static void CG_Obituary( entityState_t *ent ) {
 		message = "melted";
 		break;
 	case MOD_LAVA:
-		message = "does a back flip into the lava";
+		message = "does a back flip into the JavaScript";
 		break;
 	case MOD_TARGET_LASER:
 		message = "saw the light";
